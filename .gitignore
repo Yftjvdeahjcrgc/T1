@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+data/checkpoints/
+data/__pycache__/
+data/corpus/*.jsonl
+*.pt
+*.pt.tmp
+.env
+.venv/
